@@ -183,5 +183,4 @@
 </div>
 </br>
 </br>
-<img src="https://raw.githubusercontent.com/caiorodrigues/caiorodrigues/output/snake.svg" alt="Snake animation" />
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/caiorodrigues/caiorodrigues/output/github-contribution-grid-snake.svg" />
+<!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/caiorodrigues/caiorodrigues/output/github-contribution-grid-snake.svg" /> -->
