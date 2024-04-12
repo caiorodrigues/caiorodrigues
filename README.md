@@ -1,20 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-<h3 align="left">My name is Caio Rodrigues and I'm a frontend developer, with mobile emphasis</h3>
-</br>
-</br>
 
-<h2 align="left">About me</h2>
+![Gif (1)](https://github.com/caiorodrigues/caiorodrigues/assets/2632292/ff318fc0-1a41-4eaf-a0d4-d9a1627f0ba7)
 
-###
-</br>
-  <img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzNsZHEzbm56emFjNng1Y3B3Y29saWdudWVoMmZ2MXlkMjcycHQzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-  <p align="left">
-    ✨ Coding since ... 
-    <br>📚 I'm currently learning ...
-    <br>🎯 Goals: ...
-    <br>🎲 Fun fact: ...
-  </p>
-</br></br>
+<div align="right">
+  Pixel art by <a href="https://brunopixels.tumblr.com/">@brunopixels</a>
+</div>
+
 <h2 align="left">Contact me</h2>
 <div align="center">
   
@@ -24,12 +14,6 @@
   [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/caiorodr)
   
 </br></br>
-<div align="center">
-  <img src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gifv" />
-</div>
-<div align="right">
-  Pixel art by <a href="https://brunopixels.tumblr.com/">@brunopixels</a>
-</div>
 <div align='left'>
 </br>
   
